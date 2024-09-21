@@ -2,7 +2,8 @@
   "checkpoints": {
     "sd_xl_base_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/blob/main/sd_xl_base_1.0.safetensors",
     "sd_xl_refiner_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/blob/main/sd_xl_refiner_1.0.safetensors",
-    "v1-5-pruned.ckpt2": "https://huggingface.co/runwayml/stable-diffusion-v1-5/blob/main/v1-5-pruned.ckpt"
+    "v1-5-pruned.ckpt2": "https://huggingface.co/runwayml/stable-diffusion-v1-5/blob/main/v1-5-pruned.ckpt",
+    "epicphotogasm_x.safetensors": "https://civitai.com/models/132632/epicphotogasm"
   },
   "loras": {},
   "upscalers": {},
